@@ -17,9 +17,12 @@ Players can guess words from various categories like fruits, animals, sports, et
 ## 🚀 How to Run the Game
 
 ### 1. Clone the repository
-
 git clone https://github.com/Varshanthini25/Hangman-Game.git
 cd hangman-game
 
 ## Run the program
 Make sure you have Python installed .
+
+## OutPut:
+
+![Image](https://github.com/user-attachments/assets/ee4ffd4b-1a01-4ede-92eb-984760555c95)
