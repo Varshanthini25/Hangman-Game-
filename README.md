@@ -51,6 +51,13 @@ Time — Standard Python module to implement countdown timer functionality.
 
 8.Use the Reset Game button to start over at any time.
 
+## Out Put:
+
+![Image](https://github.com/user-attachments/assets/86a4e166-cb8f-4cf9-8a58-23b4b06ed4c5)
+
+
+
+![Image](https://github.com/user-attachments/assets/bda58a39-428b-4fb5-927b-58de7ca6897b)
 
 
 
